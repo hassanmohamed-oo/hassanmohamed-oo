@@ -30,6 +30,6 @@
 <a href= "https://github.com/Aditya664?tab=repositories&q=&type=&language=sass&sort="> <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-<a href = 'https://www.linkedin.com/in/hassan-mohamed-77b9532a5/'> <img width = '32' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/alhassan.oo/?hl=en'> <img width = '32' align= 'center' src="https://raw.githubusercontent.com/rahul
-
+<a href = 'https://www.linkedin.com/in/hassan-mohamed-77b9532a5/'> <img width = '32' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+<a href = 'https://www.instagram.com/alhassan.oo/?hl=en'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://github.com/hassan-wolf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></a> 
